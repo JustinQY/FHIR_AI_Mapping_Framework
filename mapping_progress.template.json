@@ -1,0 +1,12 @@
+{
+  "input_file_pattern": "curam_tables_*.docx",
+  "sorted_input_files": [],
+  "processed_files": [],
+  "reviewed_files": [],
+  "pending_review_file": null,
+  "last_processed_file": null,
+  "last_reviewed_file": null,
+  "tables_json_path": "tables_json.json",
+  "status": "not_started",
+  "notes": []
+}

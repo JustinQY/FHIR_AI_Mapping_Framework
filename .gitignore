@@ -1,0 +1,36 @@
+# Python virtual environments and caches
+.venv/
+venv/
+env/
+curamfhirmapping/
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Credentials and local authentication artifacts
+.env
+.env.*
+!.env.example
+*.token
+*token_cache*
+*.pem
+*.pfx
+*.key
+
+# Editor and OS-local files
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+~$*
+
+# Logs and temporary extraction artifacts
+*.log
+*.tmp
+_batch_extract.json
+data/download_errors.csv
+data/parse_errors.csv
+data/parse_warnings.csv
